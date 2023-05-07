@@ -6,7 +6,9 @@ The UI of Razorpay is sleek and intuitive, allowing users to make payments easil
 
 Tailwind CSS provides a set of pre-defined CSS classes that can be used to style HTML elements. This allows developers to create responsive and visually appealing UIs quickly and efficiently. In this project, Tailwind CSS is used to create the layout, typography, and color scheme of the Razorpay UI.
 
-<b> SCREENSHOT </b>  
+<b> SCREENSHOT </b>
+
+
 ![Screenshot (72)](https://user-images.githubusercontent.com/69872224/236210274-11b5ffa7-f8ab-4412-8f1f-a15e04a6bff6.png)
 
 
@@ -18,3 +20,7 @@ Tailwind CSS provides a set of pre-defined CSS classes that can be used to style
 
 
 ![Screenshot (75)](https://user-images.githubusercontent.com/69872224/236631171-b1bcface-7997-4a72-9c57-41922774c411.png)
+
+
+![Screenshot (77)](https://user-images.githubusercontent.com/69872224/236674973-a4f46d3e-6187-41e0-9e58-5b961ddf7adc.png)
+
