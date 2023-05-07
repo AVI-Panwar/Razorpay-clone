@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.featureCard2:hover .featureCardSVG{
+    filter: drop-shadow(0px 2px 24px rgba(0, 0 , 0, 0.6));
+    stroke-opacity: 0;
+}
