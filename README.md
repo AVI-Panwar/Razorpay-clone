@@ -2,7 +2,7 @@
 
 This is a clone of the Razorpay UI built using HTML and Tailwind CSS. The purpose of this project is to demonstrate my HTML and CSS skills and to showcase my ability to build user interfaces that closely resemble popular websites and applications.
 
-The UI of Razorpay is sleek and intuitive, allowing users to make payments easily and securely. The purpose of this project is to replicate the Razorpay UI using HTML and Tailwind CSS, which is a utility-first CSS framework.
+The UI of Razorpay is sleek and intuitive. The purpose of this project is to replicate the Razorpay UI using HTML and Tailwind CSS, which is a utility-first CSS framework.
 
 Tailwind CSS provides a set of pre-defined CSS classes that can be used to style HTML elements. This allows developers to create responsive and visually appealing UIs quickly and efficiently. In this project, Tailwind CSS is used to create the layout, typography, and color scheme of the Razorpay UI.
 
