@@ -24,3 +24,7 @@ Tailwind CSS provides a set of pre-defined CSS classes that can be used to style
 
 ![Screenshot (77)](https://user-images.githubusercontent.com/69872224/236674973-a4f46d3e-6187-41e0-9e58-5b961ddf7adc.png)
 
+
+![Screenshot (80)](https://user-images.githubusercontent.com/69872224/236861893-e218ee0d-6e61-4fcb-b015-a42552ba31a7.png)
+
+
