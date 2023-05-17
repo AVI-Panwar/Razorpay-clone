@@ -29,3 +29,7 @@ Tailwind CSS provides a set of pre-defined CSS classes that can be used to style
 
 
 ![Screenshot (81)](https://github.com/AVI-Panwar/Razorpay-clone/assets/69872224/3a489cbc-e9d1-4300-8085-42dc686938e0)
+
+
+![Screenshot (82)](https://github.com/AVI-Panwar/Razorpay-clone/assets/69872224/5d5b4f34-c5e9-48f8-bc84-86b87a8819f3)
+
